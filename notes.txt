@@ -1,0 +1,2 @@
+to get the scatter from matplotlib to work in python interpreter, ->
+matplotlib.use('Agg')
